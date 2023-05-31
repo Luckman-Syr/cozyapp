@@ -1,0 +1,17 @@
+{"cities":[ 
+        {
+            "city": "Jakarta",
+            "image": "https://images.unsplash.com/photo-1635924201021-e8ae80c2bdc0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW9uYXMlMkMlMjBqYWthcnRhJTJDJTIwaW5kb25lc2lhfGVufDB8fDB8fHww&w=1000&q=80",
+            "isPopular": false
+        },
+        {
+            "city": "Surabaya",
+            "image": "https://ik.imagekit.io/tvlk/blog/2019/11/large-surabaya-10d00186ea5398bd3b65888bdc65eba6.jpg?tr=dpr-2,w-675",
+            "isPopular": true
+        },
+        {
+            "city": "Sumatera Barat",
+            "image": "https://ik.imagekit.io/tvlk/blog/2020/02/wisata-bukittinggi-8-AiryRooms.jpg?tr=dpr-2,w-675",
+            "isPopular": false
+        }
+]}

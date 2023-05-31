@@ -1,0 +1,28 @@
+{
+    "recommended": [
+        {
+            "name": "Kuretakeso Hott",
+            "imageUrl": "assets/images/room/room1.png",
+            "price": 52,
+            "city": "Bandung",
+            "country": "Indonesia",
+            "rating": "4/5"
+        },
+        {
+            "name": "Roemah Nenek",
+            "imageUrl": "assets/images/room/room2.png",
+            "price": 11,
+            "city": "Bogor",
+            "country": "Indonesia",
+            "rating": "5/5"
+        },
+        {
+            "name": "Darrling How",
+            "imageUrl": "assets/images/room/room3.png",
+            "price": 20,
+            "city": "Jakarta",
+            "country": "Indonesia",
+            "rating": "4/5"
+        }
+    ]
+}
